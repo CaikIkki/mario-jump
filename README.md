@@ -1,0 +1,3 @@
+# mario-jump
+Meu joguinho básico
+Esse é o meu primeiro projetinho de um jogo que fiz por meio do Youtube, aidna pretendo atualizar ele com mais coisas...
