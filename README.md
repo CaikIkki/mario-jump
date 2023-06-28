@@ -9,9 +9,5 @@ Esse é o meu primeiro projetinho de um jogo que fiz por meio de uma video-aula 
 # Previews do jogo:<br>
 https://github.com/CaikIkki/mario-jump/assets/94667712/d6ef0afe-e20f-45bc-8f2c-c22b09a8d6b1
 
-![Preview Start](/preview/start.png)
-![Preview Jump_1](/preview/jump_1.png)
-![Preview Jump_2](/preview/jump_2.png)
-![Preview Game over](/preview/game_over.png)
 # Vídeo-aula que aprendi a fazer isso replicando o que foi passado:
 [![TELA DE LOGIN COM TEMA DARK | HTML + CSS](https://i.ytimg.com/vi/r9buAwVBDhA/maxresdefault.jpg)](https://youtu.be/r9buAwVBDhA)
