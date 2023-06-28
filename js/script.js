@@ -15,7 +15,7 @@ const loop = setInterval(() => {
     const marioPosition = +window.getComputedStyle(mario).bottom.replace('px', '');
     console.log(marioPosition);
 
-    if (pipePosition <= 120 && pipePosition > 0 && marioPosition < 80) {
+    if (pipePosition <= 190 && pipePosition > 0 && marioPosition < 80) {
 
         pipe.style.animation = 'none';
         pipe.style.left = `${pipePosition}px`;
@@ -24,7 +24,7 @@ const loop = setInterval(() => {
         mario.style.bottom = `${marioPosition}px`;
 
         mario.src = './images/game-over.png';
-        mario.style.width = '100px'
+        mario.style.width = '190px'
         mario.style.marginLeft = '35px'
         
         clearInterval(loop);
@@ -44,4 +44,8 @@ const restart = () => {
 }
 
 document.addEventListener('click', restart);
-document.addEventListener('keydown', jump);
+document.addEventListener('keydown', function(event) {
+    if (event.code === 'Space') {
+        jump();
+    }
+});
