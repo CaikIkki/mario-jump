@@ -8,6 +8,3 @@ Esse é o meu primeiro projetinho de um jogo que fiz por meio de uma video-aula 
 - Adicionei uma imagem GAME OVER para quando o jogo acaba, ela fica centralizada no meio do céu sem interferir nas clouds.
 # Previews do jogo:<br>
 https://github.com/CaikIkki/mario-jump/assets/94667712/d6ef0afe-e20f-45bc-8f2c-c22b09a8d6b1
-
-# Vídeo-aula que aprendi a fazer isso replicando o que foi passado:
-[![Como criar um jogo SIMPLES usando JavaScript e HTML | JavaScript para iniciantes - Tutorial](https://i.ytimg.com/vi/r9buAwVBDhA/maxresdefault.jpg)](https://youtu.be/r9buAwVBDhA)
